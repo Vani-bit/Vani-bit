@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 💞️ **I’m looking to collaborate on:** Exciting backend projects, JavaScript development, and open-source contributions that focus on creating scalable and efficient solutions.
 - 📫 **How to reach me:** You can email me at [vuvss1@gmail.com].
 - 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I pursued a B.Tech in Aerospace Engineering out of sheer curiosity! Additionally, I designed and built a testing rig for a hot air valve used in military helicopters.
+- ⚡ **Fun fact:** I pursued a B.Tech in Aerospace Engineering out of sheer curiosity! Also, I designed and built a testing rig for a hot air valve used in MI-17 helicopters.
 
 ## About Me
 
