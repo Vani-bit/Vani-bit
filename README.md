@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's a bit about me:
 
-- 👀 **I’m interested in:** Backend development, MERN stack, system design, and DevOps.
+- 👀 **I’m interested in:** Backend development.
 - 🌱 **I’m currently learning:** Advanced backend techniques and DevOps practices.
 - 💞️ **I’m looking to collaborate on:** Exciting backend projects, JavaScript development, and open-source contributions that focus on creating scalable and efficient solutions.
 - 📫 **How to reach me:** You can email me at [vuvss1@gmail.com].
